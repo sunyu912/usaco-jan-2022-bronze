@@ -19,5 +19,5 @@ The following code is for references.
 
 - Herdle: https://github.com/sunyu912/usaco-jan-2022-bronze/blob/main/Herdle.py
 - Non-Transitive Dice: https://github.com/sunyu912/usaco-jan-2022-bronze/blob/main/Non-Transitive%20Dice.py
--Drought: https://github.com/sunyu912/usaco-jan-2022-bronze/blob/main/Drought.py
+- Drought: https://github.com/sunyu912/usaco-jan-2022-bronze/blob/main/Drought.py
 
